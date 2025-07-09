@@ -4,7 +4,7 @@
 
 Disponível para jogar gratuitamente no [Itch.io](https://jedev1.itch.io/operao-hut-9).
 
-![Capa do Operação Hut-9](logo-game.png) 
+![Capa do Operação Hut-9](logo_game.png) 
 
 ---
 
